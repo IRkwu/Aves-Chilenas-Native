@@ -1,0 +1,3588 @@
+[
+  {
+    "uid": "76-buteo-albigula",
+    "regions": [
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "46-lophonetta-specularioides",
+    "regions": [
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "33-coscoroba-coscoroba",
+    "regions": [
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "117-leucophaeus-scoresbii",
+    "regions": [
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "1-nothoprocta-perdicaria",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "137-bubo-magellanicus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "116-larus-dominicanus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "91-himantopus-melanurus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "98-haematopus-palliatus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "106-limosa-haemastica",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "21-ardea-alba",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "5-podiceps-occipitalis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "216-ardenna-grisea",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "166-scelorchilus-albicollis",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule"
+    ]
+  },
+  {
+    "uid": "146-sephanoides-fernandensis",
+    "regions": [
+      "Región de Valparaíso"
+    ]
+  },
+  {
+    "uid": "28-theristicus-melanopis",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "217-metriopelia-melanoptera",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "78-phalcoboenus-megalopterus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía"
+    ]
+  },
+  {
+    "uid": "73-parabuteo-unicinctus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "154-geositta-cunicularia",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "220-heteronetta-atricapilla",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "237-phrygilus-unicolor",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "165-pteroptochos-tarnii",
+    "regions": [
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "32-cygnus-melancoryphus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "189-sicalis-luteola",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "214-pluvianellus-socialis",
+    "regions": [
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "143-caprimulgus-longirostris",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "223-eudyptes-chrysolophus",
+    "regions": [
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "37-chloephaga-poliocephala",
+    "regions": [
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "6-podilymbus-podiceps",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "123-sterna-hirundinacea",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "169-eugralla-paradoxa",
+    "regions": [
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "45-speculanas-specularis",
+    "regions": [
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "94-charadrius-falklandicus",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+
+    ]
+  },
+  {
+    "uid": "20-rhea-pennata",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama"
+    ]
+  },
+  {
+    "uid": "84-pardirallus-sanguinolentus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "192-agelaius-thilius",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "105-numenius-phaeopus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "58-anas-platalea",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "19-phalacrocorax-atriceps",
+    "regions": [
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "244-phalacrocorax-magellanicus",
+    "regions": [
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "85-laterallus-jamaicensis",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "126-sternula-lorata",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta"
+    ]
+  },
+  {
+    "uid": "68-vultur-gryphus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "13-aptenodytes-patagonicus",
+    "regions": [
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "181-tachycineta-meyeni",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "115-stercorarius-chilensis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "129-patagioenas-araucana",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "125-larosterna-inca",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "138-tyto-alba",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "164-asthenes-humicola",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía"
+    ]
+  },
+  {
+    "uid": "156-ochetorhynchus-melanurus",
+    "regions": [
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins"
+    ]
+  },
+  {
+    "uid": "50-anas-flavirostris",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "168-scelorchilus-rubecula",
+    "regions": [
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "140-strix-rufipes",
+    "regions": [
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "170-scytalopus-magellanicus",
+    "regions": [
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "131-zenaida-meloda",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso"
+    ]
+  },
+  {
+    "uid": "147-patagonas-gigas",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía"
+    ]
+  },
+  {
+    "uid": "225-anthus-correndera",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "114-thinocorus-rumicivorus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "25-nycticorax-nycticorax",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "196-phrygilus-patagonicus",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "145-sephanoides-sephanoides",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "12-aptenodytes-forsteri",
+    "regions": [
+      "Región de Magallanes y Antártica Chilena" 
+    ]
+  },
+  {
+    "uid": "202-passer-domesticus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "179-elaenia-albiceps",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "221-thinocorus-orbignyianus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso"
+    ]
+  },
+  {
+    "uid": "120-larus-pipixcan",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "163-leptasthenura-aegithaloides",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "51-anas-bahamensis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "134-cyanoliseus-patagonus",
+    "regions": [
+      "Región de Atacama",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule"
+    ]
+  },
+  {
+    "uid": "109-calidris-alba",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "245-muscisaxicola-rufivertex",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins"
+    ]
+  },
+  {
+    "uid": "176-pyrocephalus-rubinus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta"
+    ]
+  },
+  {
+    "uid": "185-phytotoma-rara",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "4-rollandia-rolland",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "155-upucerthia-dumetaria",
+    "regions": [
+      "Región de Tarapacá",
+      "Región de Valparaíso"
+    ]
+  },
+  {
+    "uid": "96-oreopholus-ruficollis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "191-molothrus-bonariensis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "29-phoenicopterus-chilensis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "23-bubuculcus-ibis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "93-charadrius-collaris",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "104-tringa-semipalmata",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía"
+    ]
+  },
+  {
+    "uid": "197-phrygilus-fruticeti",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "153-colaptes-pitius",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "222-macronectes-giganteus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "193-sturnella-loyca",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "212-sicalis-auriventris",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "102-tringa-melanoleuca",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "113-nycticryphes-semicollaris",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "70-accipiter-chilensis",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso","Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "173-hymenops-perspicillata",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "239-phalaropus-tricolor",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "203-carduelis-barbata",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "82-falco-femoralis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "247-melanodera-xanthogramma",
+    "regions": [
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "133-enicognathus-leptorhynchus",
+    "regions": [
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "108-aphriza-virgata",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "229-attagis-gayi",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+      
+    ]
+  },
+  {
+    "uid": "151-campephilus-magellanicus",
+    "regions": [
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "215-cinclodes-fuscus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "75-buteo-ventralis",
+    "regions": [
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "226-muscisaxicola-flavinucha",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "162-aphrastura-spinicauda",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "139-asio-flammeus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "74-buteo-polyosoma",
+    "regions": [
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "186-turdus-falcklandii",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "54-anas-sibilatrix",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "65-cathartes-aura",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "26-ixobrychus-involucris",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "14-sula-variegata",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "201-zonotrichia-capensis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "7-podiceps-major",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "194-phrygilus-gayi",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío"
+    ]
+  },
+  {
+    "uid": "99-haematopus-ater",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "235-agriornis-lividus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "101-phegornis-mitchellii",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule"
+    ]
+  },
+  {
+    "uid": "218-columba-livia",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "200-diuca-diuca",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "41-chloephaga-picta",
+    "regions": [
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "62-oxyura-ferruginea (jamaicensis)",
+    "regions": [
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "158-cinclodes-nigrofumosus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "107-arenaria-interpres",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "236-hirundo-rustica",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "87-fulica-armillata",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "97-charadrius-modestus",
+    "regions": [
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "233-muscisaxicola-maclovianus",
+    "regions": [
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "161-sylviorthorhynchus-desmurii",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "27-plegadis-chihi",
+    "regions": [
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "95-pluvialis-squatarola",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "160-phleocryptes-melanops",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "149-rhodopis-vesper",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo"
+    ]
+  },
+  {
+    "uid": "242-caracara-plancus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "111-gallinago-paraguaiae",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "16-phalacrocorax-brasilianus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "100-haematopus-leucopodus",
+    "regions": [
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "128-rynchops-niger",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "92-recurvirostra-andina",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá"
+    ]
+  },
+  {
+    "uid": "79-milvago-chimango",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "231-eudyptes-chrysocome",
+    "regions": [
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "66-coragyps-atratus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "152-picoides-lignarius",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "232-cinclodes-atacamensis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago"
+    ]
+  },
+  {
+    "uid": "132-enicognathus-ferrugineus",
+    "regions": [
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "48-merganetta-armata",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "190-curaeus-curaeus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "8-thalassarche-melanophrys",
+    "regions": [
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "159-pygarrhichas-albogularis",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "71-elanus-leucurus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "195-phrygilus-atriceps",
+    "regions": [
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo"
+    ]
+  },
+  {
+    "uid": "177-xolmis-pyrope",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "2-callipela-californica",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "219-columbina-picui",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "224-phalaropus-fulicarius",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "3-eudromia-elegans",
+    "regions": [
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "60-netta-peposaca",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "103-tringa-flavipes",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "136-myiopsitta-monachus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "183-troglodytes-musculus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "248-diomedea-exulans",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "80-falco-sparverius",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "22-egretta-thula",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "49-anas-georgica",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "204-carduelis-uropygialis",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío"
+    ]
+  },
+  {
+    "uid": "167-pteroptochos-megapodius",
+    "regions": [
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío"
+    ]
+  },
+  {
+    "uid": "88-fulica-leucoptera",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "127-sterna-elegans",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "38-chloephaga-rubidiceps",
+    "regions": [
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "121-larus-serranus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía"
+    ]
+  },
+  {
+    "uid": "174-lessonia-rufa",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "83-falco-peregrinus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "81-pandion-haliaetus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "243-geranoaetus-melanoleucus",
+    "regions": [
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "72-cinereous-harrier",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "17-phalacrocorax-gaimardi",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "124-sterna-trudeaui",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "175-colorhamphus-parvirostris",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "24-ardea-cocoi",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "187-mimus-tenca",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "86-porphyriops-melanops",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "30-phoenicoparrus-andinus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama"
+    ]
+  },
+  {
+    "uid": "130-zenaida-auriculata",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "89-fulica-rufifrons",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "178-tachuris-rubrigastra",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "64-oxyura-vittata",
+    "regions": [
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "90-vanellus-chilensis",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "52-anas-versicolor",
+    "regions": [
+      "Región Metropolitana de Santiago",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "172-muscisaxicola-albilora",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "15-pelecanus-thagus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "234-sterna-hirundo",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso"
+    ]
+  },
+  {
+    "uid": "11-spheniscus-humboldti",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos"
+    ]
+  },
+  {
+    "uid": "198-phrygilus-alaudinus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "36-chloephaga-hybrida",
+    "regions": [
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "43-tachyeres-pteneres",
+    "regions": [
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "112-gallinago-stricklandii",
+    "regions": [
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "157-cinclodes-patagonicus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "142-athene-cunicularia",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "118-larus-belcheri",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo"
+    ]
+  },
+  {
+    "uid": "171-agriornis-montanus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+
+    ]
+  },
+  {
+    "uid": "209-oreotrochilus-leucopleurus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía"
+    ]
+  },
+  {
+    "uid": "110-calidris-bairdii",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "180-anairetes-parulus",
+    "regions": [
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "182-pygochelidon-cyanoleuca",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "135-psilopsiagon-aurifrons",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago"
+    ]
+  },
+  {
+    "uid": "9-oceanites-oceanicus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "150-ceryle-torquata",
+    "regions": [
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "34-chloephaga-melanoptera",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío"
+    ]
+  },
+  {
+    "uid": "119-larus-modestus",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo"
+    ]
+  },
+  {
+    "uid": "18-phalacrocorax-bougainvillii",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos"
+    ]
+  },
+  {
+    "uid": "122-chroicocephalus-maculipennis",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "141-glaucidium-nana",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "184-cistothorus-platensis",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "148-eulidia-yarrellii",
+    "regions": [
+      "Región de Arica y Parinacota"
+    ]
+  },
+  {
+    "uid": "56-anas-cyanoptera",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  },
+  {
+    "uid": "31-phoenicoparrus-jamesi",
+    "regions": [
+      "Región de Arica y Parinacota",
+      "Región de Tarapacá",
+      "Región de Antofagasta",
+      "Región de Atacama"
+    ]
+  },
+  {
+    "uid": "10-spheniscus-magellanicus",
+    "regions": [
+      "Región de Atacama",
+      "Región de Coquimbo",
+      "Región de Valparaíso",
+      "Región Metropolitana de Santiago",
+      "Región del Libertador Bernardo O'Higgins",
+      "Región del Maule",
+      "Región de Ñuble",
+      "Región del Bío-Bío",
+      "Región de La Araucanía",
+      "Región de Los Ríos",
+      "Región de Los Lagos",
+      "Región de Aysén del Gral.Ibañez del Campo",
+      "Región de Magallanes y Antártica Chilena"
+    ]
+  }
+]
