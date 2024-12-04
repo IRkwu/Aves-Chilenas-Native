@@ -35,14 +35,13 @@ const Birds = ({ selectedRegion }) => {
   const modalStyle = getPlatformStyle(styles.webModal, styles.mobileModal);
   const modalImageStyle = getPlatformStyle(styles.webModalImage, styles.mobileModalImage);
 
-  const numColumns = Platform.OS === 'web' ? 2 : 2;
 
   return (
     <View style={styles.container}>
-      <Text style={styles.headerText}>Aves en la {selectedRegion}</Text>
+      <Text style={styles.titleText}>Aves en la {selectedRegion}</Text>
       <FlatList
         data={birds}
-        numColumns={numColumns}
+        numColumns={2}
         renderItem={({ item: bird }) => (
           <View style={styles.card}>
             <Image source={{ uri: bird.images.thumb }} style={imageStyle} />
@@ -106,11 +105,11 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 16,
     backgroundColor: '#fff',
+    borderRadius: 10
   },
-  headerText: {
-    fontSize: 24,
+  titleText: {
+    fontSize: 30,
     fontWeight: '600',
-    marginBottom: 16,
     textAlign: 'center',
   },
   loadingText: {
@@ -188,8 +187,8 @@ const styles = StyleSheet.create({
     height: '100%',
   },
   webModalImage: {
-    width: '70vh', 
-    height: '70vh', 
+    width: '65vh', 
+    height: '65vh', 
     resizeMode: 'contain',
     borderRadius: 8,
   },
@@ -199,12 +198,12 @@ const styles = StyleSheet.create({
     borderRadius: 8,
   },
   modalTitle: {
-    fontSize: 24,
+    fontSize: 32,
     fontWeight: '600',
     marginVertical: 8,
   },
   modalBadge: {
-    fontSize: 16,
+    fontSize: 14,
     color: '#ffffff',
     fontWeight: '500',
     backgroundColor: '#ff4081',
@@ -214,7 +213,7 @@ const styles = StyleSheet.create({
 
   },
   sectionTitle: {
-    fontSize: 20,
+    fontSize: 22,
     fontWeight: '600',
     marginTop: 16,
   },
