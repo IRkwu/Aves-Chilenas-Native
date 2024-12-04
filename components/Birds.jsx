@@ -27,28 +27,15 @@ const Birds = ({ selectedRegion }) => {
     return <Text style={styles.infoText}>Seleccione una región para ver las aves que habitan en ella.</Text>;
   }
 
-  const getModalStyle = () => {
-    if (Platform.OS === 'web') {
-      return styles.webModal;
-    }
-    return styles.mobileModal;
+  const getPlatformStyle = (webStyle, mobileStyle) => {
+    return Platform.OS === 'web' ? webStyle : mobileStyle;
   };
 
-  const getImageStyle = () => {
-    if (Platform.OS === 'web') {
-      return styles.webImage;
-    }
-    return styles.mobileImage;
-  };
+  const imageStyle = getPlatformStyle(styles.webImage, styles.mobileImage);
+  const modalStyle = getPlatformStyle(styles.webModal, styles.mobileModal);
+  const modalImageStyle = getPlatformStyle(styles.webModalImage, styles.mobileModalImage);
 
-  const getModalImageStyle = () => {
-    if (Platform.OS === 'web') {
-      return styles.webModalImage;
-    }
-    return styles.mobileModalImage;
-  };
-
-  const numColumns = Platform.OS === 'web' ? 4 : 2;
+  const numColumns = Platform.OS === 'web' ? 2 : 2;
 
   return (
     <View style={styles.container}>
@@ -58,7 +45,7 @@ const Birds = ({ selectedRegion }) => {
         numColumns={numColumns}
         renderItem={({ item: bird }) => (
           <View style={styles.card}>
-            <Image source={{ uri: bird.images.thumb }} style={getImageStyle()} />
+            <Image source={{ uri: bird.images.thumb }} style={imageStyle} />
             <Text style={styles.birdName}>{bird.name.spanish}</Text>
             <TouchableOpacity
               style={styles.button}
@@ -81,7 +68,7 @@ const Birds = ({ selectedRegion }) => {
       >
         <View style={[styles.modalBackground]}>
           <View
-            style={[styles.modalContent, getModalStyle()]}
+            style={[styles.modalContent, modalStyle]}
           >
             {isBirdLoading ? (
               <Text style={styles.loadingText}>Cargando...</Text>
@@ -90,7 +77,7 @@ const Birds = ({ selectedRegion }) => {
             ) : (
               birdData && (
                 <ScrollView contentContainerStyle={styles.scrollContent}>
-                  <Image source={{ uri: birdData.images.main }} style={ getModalImageStyle()} />
+                  <Image source={{ uri: birdData.images.main }} style={modalImageStyle} />
                   <Text style={styles.modalTitle}>{birdData.name.spanish}</Text>
                   <Text style={styles.modalBadge}>{birdData.species}</Text>
                   <Text style={styles.sectionTitle}>Descripción:</Text>
@@ -148,8 +135,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   webImage: {
-    width: 250,
-    height: 250,
+    width: '37vh',
+    height: '37vh',
     borderRadius: 8,
   },
   mobileImage: {
@@ -201,8 +188,8 @@ const styles = StyleSheet.create({
     height: '100%',
   },
   webModalImage: {
-    width: '100%', 
-    height: '150%', 
+    width: '70vh', 
+    height: '70vh', 
     resizeMode: 'contain',
     borderRadius: 8,
   },

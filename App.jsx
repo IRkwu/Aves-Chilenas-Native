@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { View, Text, StyleSheet } from "react-native";
 
-//import SimpleMap from "./components/Map";
+//import Map from "./components/Map";
 import Birds from "./components/Birds";
 
 function App() {
@@ -19,10 +19,10 @@ const styles = StyleSheet.create({
     backgroundColor: "#f0f0f0",
   },
   title: {
-    marginTop: 50,
+    marginTop: 20,
     fontSize: 24,
     fontWeight: "bold",
-    marginVertical: 20,
+    marginVertical: 10,
     textAlign: "center",
   },
 });
