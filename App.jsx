@@ -1,19 +1,24 @@
 import { useState } from "react";
-import { View, Text, StyleSheet, Platform } from "react-native";
+import { View, Image, StyleSheet, Platform } from "react-native";
 import Birds from "./components/Birds";
 
-// AYUDA ESTA COSA ES HORRIBLE NO ENTIENDO AAAAAAAAAAAAAAAAAAAAAAAAA
-let Map = Platform.OS === 'web' 
-  ? require('./components/MapWeb').default
-  : require('./components/MapMobile').default;
+let Map = Platform.OS === "web"
+  ? require("./components/MapWeb").default
+  : require("./components/MapMobile").default;
 
 function App() {
   const [selectedRegion, setSelectedRegion] = useState();
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Aves en Chile</Text>
-      {Platform.OS === 'web' ? (
+      <View style={styles.imageContainer}>
+        <Image
+          source={require("./assets/logo.png")}
+          style={styles.logo}
+        />
+      </View>
+
+      {Platform.OS === "web" ? (
         <View style={styles.grid}>
           <View style={styles.mapContainer}>
             <Map setSelectedRegion={setSelectedRegion} />
@@ -36,28 +41,30 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#f0f0f0",
-    padding: 10
-
   },
-  title: {
-    marginTop: 20,
-    fontSize: 24,
-    fontWeight: "bold",
-    marginVertical: 10,
-    textAlign: "center"
+  imageContainer: {
+    backgroundColor: "#add8e6",
+    alignItems: "center",
+    justifyContent: "center",
+    marginBottom: 20,
+    height: "10%",
+  },
+  logo: {
+    width: 130,
+    height: 50,
   },
   grid: {
     flex: 1,
-    flexDirection: "row"
+    flexDirection: "row",
   },
   mapContainer: {
     flex: 1,
-    padding: 10
+    padding: 10,
   },
   birdsContainer: {
     flex: 1,
-    padding: 10
-  }
+    padding: 10,
+  },
 });
 
 export default App;

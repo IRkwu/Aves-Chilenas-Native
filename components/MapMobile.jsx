@@ -4,12 +4,16 @@ import MapView, { Geojson } from "react-native-maps";
 import geoJsonData from "../mocks/Regional.json";
 
 const MapMobile = ({ setSelectedRegion }) => {
-  const [regionName, setRegionName] = useState(null); // Estado para almacenar el nombre de la región seleccionada
+  const [selectedRegion, setSelectedRegionState] = useState();
 
-  // Pruebas para cambiar color de región seleccionada
-  const getFillColor = () => {
-    const color = regionName === 'Región de Los Lagos' ? "#3388ff" : "#008000";
-    return color; 
+  // Para modificar el color de la región seleccionada
+  const getFillColor = (regionName) => {
+    return regionName === selectedRegion ? "rgba(0,128,0,0.5)" : "rgba(51,136,255,0.5)";
+  };
+
+  // Para modificar el color del borde de la región seleccionada
+  const getStrokeColor = (regionName) => {
+    return regionName === selectedRegion ? "rgba(0,128,0,1)" : "rgba(51,136,255,1)";
   }
 
   return (
@@ -24,18 +28,25 @@ const MapMobile = ({ setSelectedRegion }) => {
           longitudeDelta: 10,
         }}
       >
-        {/* Implementación del GeoJSON, colores de borde, fondo y función al dar click */}
-        <Geojson
-          tappable={true}
-          geojson={geoJsonData}
-          strokeColor={getFillColor()}
-          fillColor="rgba(51,136,255,0.22)"
-          strokeWidth={1}
-          onPress={(event) => {
-            setSelectedRegion(event.feature.properties.Region);
-            setRegionName(event.feature.properties.Region);
-          }}
-        />
+        {/* Renderiza las regiones individualmente, en vez de todas como una entidad */}
+        {geoJsonData.features.map((feature, index) => (
+          <Geojson
+            key={index}
+            tappable={true}
+            geojson={{
+              type: "FeatureCollection",
+              features: [feature],
+            }}
+            // Se colorean los bordes según los getters
+            strokeColor={getStrokeColor(feature.properties.Region)}
+            fillColor={getFillColor(feature.properties.Region)}
+            strokeWidth={1}
+            onPress={() => {
+              setSelectedRegionState(feature.properties.Region);
+              setSelectedRegion(feature.properties.Region);
+            }}
+          />
+        ))}
       </MapView>
     </View>
   );
