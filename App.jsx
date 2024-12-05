@@ -2,6 +2,7 @@ import { useState } from "react";
 import { View, Image, StyleSheet, Platform } from "react-native";
 import Birds from "./components/Birds";
 
+// Para que funcione en Web se debe reemplazar el segundo require por el []; 
 let Map = Platform.OS === "web"
   ? require("./components/MapWeb").default
   : require("./components/MapMobile").default;
@@ -46,7 +47,6 @@ const styles = StyleSheet.create({
     backgroundColor: "#add8e6",
     alignItems: "center",
     justifyContent: "center",
-    marginBottom: 20,
     height: "10%",
   },
   logo: {

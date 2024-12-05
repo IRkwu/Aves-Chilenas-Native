@@ -7,9 +7,11 @@ import regionsData from '../mocks/regionsData.json';
 const Birds = ({ selectedRegion }) => {
   const { data, isLoading, error } = useFetchBirds();
   const [selectedBirdUid, setSelectedBirdUid] = useState();
+  // Se define con : para que no se repita el valor de data, isLoading y error;
   const { data: birdData, isLoading: isBirdLoading, error: birdError } = useFetchBirdData(selectedBirdUid);
   const [modalVisible, setModalVisible] = useState(false);
 
+   // sirve para obtener las regiones de las aves y compararlas con la región seleccionada
   const getBirdRegions = (birdUid) =>
     regionsData.find(region => region.uid === birdUid).regions.join();
 
@@ -21,20 +23,23 @@ const Birds = ({ selectedRegion }) => {
     return <Text style={styles.errorText}>Ha ocurrido un error: {error.message}</Text>;
   }
 
+  // Filtra las aves que habitan en la región seleccionada, si no hay aves en la para filtrar, retorna []
   const birds = data ? data.filter(bird => getBirdRegions(bird.uid).includes(selectedRegion)) : [];
 
+  // Si no se ha elegido ninguna regió muestra un mensaje default
   if (birds.length === 0) {
     return <Text style={styles.infoText}>Seleccione una región para ver las aves que habitan en ella.</Text>;
   }
 
+  // Función para obtener los estilos correspondientes de la plataforma
   const getPlatformStyle = (webStyle, mobileStyle) => {
     return Platform.OS === 'web' ? webStyle : mobileStyle;
   };
 
+  // Verifica si la plataforma es web o mobile para aplicar los estilos correspondientes
   const imageStyle = getPlatformStyle(styles.webImage, styles.mobileImage);
   const modalStyle = getPlatformStyle(styles.webModal, styles.mobileModal);
   const modalImageStyle = getPlatformStyle(styles.webModalImage, styles.mobileModalImage);
-
 
   return (
     <View style={styles.container}>
@@ -43,6 +48,7 @@ const Birds = ({ selectedRegion }) => {
         data={birds}
         numColumns={2}
         renderItem={({ item: bird }) => (
+          // Muestra la información de las aves como una tarjeta
           <View style={styles.card}>
             <Image source={{ uri: bird.images.thumb }} style={imageStyle} />
             <Text style={styles.birdName}>{bird.name.spanish}</Text>
@@ -128,7 +134,7 @@ const styles = StyleSheet.create({
   card: {
     flex: 1,
     margin: 8,
-    backgroundColor: '#f9f9f9',
+    backgroundColor: '#f1f1f1',
     borderRadius: 8,
     padding: 8,
     alignItems: 'center',
@@ -166,7 +172,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontWeight: '500',
     color: '#ffffff',
-  },
+  },  
   modalBackground: {
     flex: 1,
     justifyContent: 'center',

@@ -14,7 +14,7 @@ const MapMobile = ({ setSelectedRegion }) => {
   // Para modificar el color del borde de la región seleccionada
   const getStrokeColor = (regionName) => {
     return regionName === selectedRegion ? "rgba(0,128,0,1)" : "rgba(51,136,255,1)";
-  }
+  };
 
   return (
     <View style={styles.container}>
@@ -26,6 +26,11 @@ const MapMobile = ({ setSelectedRegion }) => {
           longitude: -73.05,
           latitudeDelta: 10,
           longitudeDelta: 10,
+        }}
+        // OnPress para quitar la región seleccionada al clickear fuera de las regiones
+        onPress={() => {
+          setSelectedRegionState(null);
+          setSelectedRegion(null);
         }}
       >
         {/* Renderiza las regiones individualmente, en vez de todas como una entidad */}
